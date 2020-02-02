@@ -5,7 +5,7 @@
 ### Author: Lindsay Peltier
 
 ### Links and Resources
-* [submission PR](https://github.com/trevorthompson-401-advanced-javascript/lab-04/pull/1)
+* [submission PR]()
 * [travis]()
 
 #### Documentation
@@ -23,4 +23,7 @@
 * Lint Tests: `npm run lint`
 
 #### UML
-![UML]()
+![UML](./assets/lab04UML.jpeg)
+
+#### CODE
+* [Link to Code](./fs/edit-file.js)
